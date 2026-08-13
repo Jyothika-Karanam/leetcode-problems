@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
@@ -29,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
