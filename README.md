@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
