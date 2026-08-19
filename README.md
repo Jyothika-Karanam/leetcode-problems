@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
