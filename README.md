@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0051-n-queens) |
 | [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0239-sliding-window-maximum) |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
