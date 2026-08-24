@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hungarian Algorithm
 |  |
 | ------- |
@@ -119,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0189-rotate-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
