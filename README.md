@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
