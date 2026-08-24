@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0704-binary-search) |
 ## Greedy
