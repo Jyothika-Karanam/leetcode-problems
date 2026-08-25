@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0064-minimum-path-sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0213-house-robber-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hungarian Algorithm
@@ -143,4 +145,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
