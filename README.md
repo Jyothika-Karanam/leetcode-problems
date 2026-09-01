@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Bit Manipulation
 |  |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
