@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0875-koko-eating-bananas) |
 | [1029-two-city-scheduling](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1029-two-city-scheduling) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jyothika-Karanam/leetcode-problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Greedy
 |  |
 | ------- |
